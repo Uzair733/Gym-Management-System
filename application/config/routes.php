@@ -55,3 +55,4 @@ $route['AdminCreateView.php'] = 'AdminManageController/loadview';
 $route['MemberCreateView.php'] = 'MemberManageController/loadview';
 $route['TrainerCreateView.php'] = 'TrainerManageController/loadview';
 $route['translate_uri_dashes'] = FALSE;
+
